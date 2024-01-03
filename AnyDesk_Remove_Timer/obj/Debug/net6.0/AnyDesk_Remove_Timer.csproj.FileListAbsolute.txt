@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\bin\Debug\net6.0\AnyDesk_Remove_Timer.exe
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\bin\Debug\net6.0\AnyDesk_Remove_Timer.deps.json
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\bin\Debug\net6.0\AnyDesk_Remove_Timer.runtimeconfig.json
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\bin\Debug\net6.0\AnyDesk_Remove_Timer.dll
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\bin\Debug\net6.0\AnyDesk_Remove_Timer.pdb
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.AssemblyInfo.cs
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.dll
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\refint\AnyDesk_Remove_Timer.dll
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.pdb
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\AnyDesk_Remove_Timer.genruntimeconfig.cache
+C:\Users\admin\Desktop\AnyDesk_Remove_Timer\AnyDesk_Remove_Timer\obj\Debug\net6.0\ref\AnyDesk_Remove_Timer.dll
